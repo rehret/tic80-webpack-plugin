@@ -1,0 +1,13 @@
+{
+  "name": "tic80-webpack-plugin",
+  "version": "0.1.0",
+  "description": "Webpack plugin for TIC-80 cartridges",
+  "main": "./src/index.js",
+  "author": "Randall Ehret <randallehret@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "schema-utils": "^2.6.5",
+    "webpack-sources": "^1.4.3"
+  }
+}
